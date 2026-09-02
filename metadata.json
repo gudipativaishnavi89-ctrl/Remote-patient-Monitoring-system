@@ -1,0 +1,6 @@
+{
+  "name": "Remote Patient Monitoring System",
+  "description": "3D 4K Remote Patient Monitoring System with real-time IoT vital streaming, edge & cloud sync, AI health risk stratification, emergency alert dispatch, and clinical doctor dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
