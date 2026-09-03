@@ -1,0 +1,9 @@
+{
+  "appId": "com.aurarpm.patientmonitoring",
+  "appName": "AURA RPM",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
